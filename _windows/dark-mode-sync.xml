@@ -1,0 +1,6 @@
+<application>
+  <component name="DarkModeSync">
+    <option name="darkName" value="Material Darker" />
+    <option name="lightName" value="Material Lighter" />
+  </component>
+</application>
