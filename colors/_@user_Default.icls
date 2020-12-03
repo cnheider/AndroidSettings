@@ -4,7 +4,7 @@
     <property name="created">2017-01-07T18:04:48</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2019-04-11T02:58:16</property>
+    <property name="modified">2020-09-30T19:19:52</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -16,7 +16,7 @@
     <option name="EDITOR_FONT_NAME" value="Monospaced" />
     <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
-  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="CONSOLE_FONT_NAME" value="Consolas" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <colors>
     <option name="FILESTATUS_ADDED" value="91b859" />
