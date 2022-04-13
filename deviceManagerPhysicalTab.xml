@@ -1,0 +1,19 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="M6600TB1P3N2" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-04-13T11:32:58.147959400Z" />
+        <type value="WEAR_OS" />
+        <name value="Mobvoi Ticwatch E" />
+        <target value="Android 8.0" />
+        <api value="26" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
