@@ -1,0 +1,18 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="M6600TB1P3N2" />
+          </Key>
+        </key>
+        <type value="WEAR_OS" />
+        <name value="Mobvoi Ticwatch E" />
+        <target value="Android 8.0" />
+        <api value="26" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
